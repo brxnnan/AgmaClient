@@ -51,12 +51,12 @@ https://github.com/brxnnan/AgmaClient/assets/63263481/d501da4b-7fa6-4a5d-be60-03
 
 Agma has a cap on the amount of concurrent connections allowed from a singular IP, so proxies are used for having large amounts of bots connected at the same time.
 
-[ProxyConfig.json](Bots/Server/ProxyConfig.json) overview:
+[ProxyConfig.json](Examples/Bots/Server/ProxyConfig.json) overview:
 * `max`: max amount of bots connected at once
 * `type`: type of proxies; modifiable to support proxies of type HTTPS/SOCKS4/SOCKS5
 * `joinDelayMs`: amount of delay in milliseconds between each proxy connecting to the game server
 
-[ProxyList.txt](Bots/Server/ProxyList.txt) contains the list of proxy IPs which are used, each are separated by a new line
+[ProxyList.txt](Examples/Bots/Server/ProxyList.txt) contains the list of proxy IPs which are used, each are separated by a new line
 
 # Disclaimer
 This project was open sourced with explicit approval from the developers and is for educational purposes only.
