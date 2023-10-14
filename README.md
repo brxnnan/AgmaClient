@@ -47,7 +47,7 @@ The bots are treated as players by the server and will move to your mouse positi
 
 Video demonstration (I'm spectating and controlling the bots):
 
-
+https://github.com/brxnnan/AgmaClient/assets/63263481/d501da4b-7fa6-4a5d-be60-03906bfd14ef
 
 Agma has a cap on the amount of concurrent connections allowed from a singular IP, so proxies are used for having large amounts of bots connected at the same time.
 
