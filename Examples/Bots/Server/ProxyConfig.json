@@ -1,0 +1,9 @@
+{
+    "testing": {
+        "proxy": "161.114.82.42:1080",
+        "server": ""
+    },
+    "max": 1,
+    "type": "socks5",
+    "joinDelayMs": 100
+}
